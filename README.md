@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HeroicGamer008
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on smoething that will give me knoweledge
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on something that will give me knoweledge
 - 📫 How to reach me (not specific right now)
 
 <!---
